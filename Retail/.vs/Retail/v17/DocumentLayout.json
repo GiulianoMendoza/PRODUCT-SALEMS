@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Giuliano\\Desktop\\REENTREGATP2-REST-Mendoza_Giuliano\\Retail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F39B72-2813-4FAE-BB71-295D881183AF}|Application\\Application.csproj|c:\\users\\giuliano\\desktop\\reentregatp2-rest-mendoza_giuliano\\retail\\application\\usecase\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F39B72-2813-4FAE-BB71-295D881183AF}|Application\\Application.csproj|solutionrelative:application\\usecase\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F39B72-2813-4FAE-BB71-295D881183AF}|Application\\Application.csproj|c:\\users\\giuliano\\desktop\\reentregatp2-rest-mendoza_giuliano\\retail\\application\\usecase\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F39B72-2813-4FAE-BB71-295D881183AF}|Application\\Application.csproj|solutionrelative:application\\usecase\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF78683-FF8D-4FD4-BC94-7438281FFD8C}|Retail\\Retail.csproj|c:\\users\\giuliano\\desktop\\reentregatp2-rest-mendoza_giuliano\\retail\\retail\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF78683-FF8D-4FD4-BC94-7438281FFD8C}|Retail\\Retail.csproj|solutionrelative:retail\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF78683-FF8D-4FD4-BC94-7438281FFD8C}|Retail\\Retail.csproj|c:\\users\\giuliano\\desktop\\reentregatp2-rest-mendoza_giuliano\\retail\\retail\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF78683-FF8D-4FD4-BC94-7438281FFD8C}|Retail\\Retail.csproj|solutionrelative:retail\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 283,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Giuliano\\Desktop\\REENTREGATP2-REST-Mendoza_Giuliano\\Retail\\Retail\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Retail\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Giuliano\\Desktop\\REENTREGATP2-REST-Mendoza_Giuliano\\Retail\\Retail\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Retail\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAcwIgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:41:50.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Giuliano\\Desktop\\REENTREGATP2-REST-Mendoza_Giuliano\\Retail\\Application\\UseCase\\ProductService.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Giuliano\\Desktop\\REENTREGATP2-REST-Mendoza_Giuliano\\Retail\\Application\\UseCase\\ProductService.cs",
+              "RelativeToolTip": "Application\\UseCase\\ProductService.cs",
+              "ViewState": "AQIAAO4AAAAAAAAAAAAAAPYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:41:33.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "C:\\Users\\Giuliano\\Desktop\\REENTREGATP2-REST-Mendoza_Giuliano\\Retail\\Application\\UseCase\\SaleService.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\SaleService.cs",
+              "ToolTip": "C:\\Users\\Giuliano\\Desktop\\REENTREGATP2-REST-Mendoza_Giuliano\\Retail\\Application\\UseCase\\SaleService.cs",
+              "RelativeToolTip": "Application\\UseCase\\SaleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T03:23:02.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "C:\\Users\\Giuliano\\Desktop\\REENTREGATP2-REST-Mendoza_Giuliano\\Retail\\Retail\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "Retail\\Controllers\\SaleController.cs",
+              "ToolTip": "C:\\Users\\Giuliano\\Desktop\\REENTREGATP2-REST-Mendoza_Giuliano\\Retail\\Retail\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "Retail\\Controllers\\SaleController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwBsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:18:01.586Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 117,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
